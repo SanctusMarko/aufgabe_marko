@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:projektfeaturefirst/src/feauture/todos/todo_item.dart';
+import 'package:projektfeaturefirst/Projektstruktur_4.6.3/src/feauture/todos/todo_item.dart';
 
 class NewsScreen extends StatelessWidget {
   const NewsScreen({super.key});

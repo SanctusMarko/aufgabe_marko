@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:projektfeaturefirst/src/feauture/profile/profile_screen.dart';
-import 'package:projektfeaturefirst/src/feauture/todos/todo_screen.dart';
+import 'package:projektfeaturefirst/Projektstruktur_4.6.3/src/feauture/profile/profile_screen.dart';
+import 'package:projektfeaturefirst/Projektstruktur_4.6.3/src/feauture/todos/todo_screen.dart';
 
 class AppHome extends StatefulWidget {
   const AppHome({super.key});
